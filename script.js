@@ -11,11 +11,13 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
 
-  question.innerHTML = "I love you too! 😘";
+  question.innerHTML = "I love you too! 😘 . Happy Women's Day Giang Nguyen";
 
   gif.src =
 
     "https://i.pinimg.com/originals/55/3d/42/553d42bea9b10e0662a05aa8726fc7f4.gif";
+
+
 
 });
 
